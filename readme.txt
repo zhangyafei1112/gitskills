@@ -4,4 +4,4 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> featurel
-add merge
+Creating a new merge -Bug
